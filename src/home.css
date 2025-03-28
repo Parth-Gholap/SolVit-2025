@@ -22,7 +22,7 @@
     position: relative;
     z-index: 10;
     max-width: 700px;
-    color: black; /* Change text color to black for visibility */
+    color: rgb(219, 18, 18); /* Change text color to black for visibility */
     text-align: center;
     display: flex;
     flex-direction: column;
